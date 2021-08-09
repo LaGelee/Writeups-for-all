@@ -2,7 +2,9 @@
 ### [TryHackMe](https://tryhackme.com/)
 Learn how to perform memory forensics with Volatility!
 
-### Stats 
+### Stats
+Difficulty :   **Easy**
+
 Sections  :   **5**
 
 Questions :   **18**
