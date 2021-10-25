@@ -6,7 +6,8 @@ This the list of all the writeups I made for free for the community.
 |---|----|----|--------|
 |1.|[Anonymous](https://github.com/LaGelee/Writeups-for-all/blob/main/TryHackMe/THM_Anonymous_CTF_WRITEUP.md)|CTF|TryHackMe|
 |2.|[Crack the hash](https://github.com/LaGelee/Writeups-for-all/blob/main/TryHackMe/THM_Crack_the_hash_CHALLENGE_WRITEUP.md)|CHALLENGE|TryHackMe|
-|3.|[Simple CTF](https://github.com/LaGelee/Writeups-for-all/blob/main/TryHackMe/THM_Simple_CTF_CTF_WRITEUP.md)|CTF|TryHackMe|
-|4.|[Volatility](https://github.com/LaGelee/Writeups-for-all/blob/main/TryHackMe/THM_Volatility_WALKTHROUGH_WRITEUP.md)|WALKTHROUGH|TryHackMe|
+|3.|[Lazy Site](https://github.com/LaGelee/Writeups-for-all/blob/main/ECW_2021/ECW_2021_Lazy_Site_CHALLENGE_WRITEUP.md)|CHALLENGE|ECW_2021|
+|4.|[Simple CTF](https://github.com/LaGelee/Writeups-for-all/blob/main/TryHackMe/THM_Simple_CTF_CTF_WRITEUP.md)|CTF|TryHackMe|
+|5.|[Volatility](https://github.com/LaGelee/Writeups-for-all/blob/main/TryHackMe/THM_Volatility_WALKTHROUGH_WRITEUP.md)|WALKTHROUGH|TryHackMe|
 
 Writeups made wit :heart: by @LaGelee
