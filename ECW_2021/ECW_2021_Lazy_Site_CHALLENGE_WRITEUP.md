@@ -1,5 +1,5 @@
 # Lazy_Site
-### European Cyber Week CTF
+### European Cyber Week CTF 2021
 
 Le challenge n'est plus accessible donc je vais écrire avec ce dont je me souviens.
 
