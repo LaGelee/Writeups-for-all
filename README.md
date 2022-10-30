@@ -11,5 +11,6 @@ This the list of all the writeups I made for free for the community.
 |5.|[Volatility](https://github.com/LaGelee/Writeups-for-all/blob/main/TryHackMe/THM_Volatility_WALKTHROUGH_WRITEUP.md)|TryHackMe|
 |6.|[Elon Musk](https://github.com/LaGelee/Writeups-for-all/blob/main/DaVinciCTF%202022/OSINT/Elon%20Musk.md)|DaVinciCTF 2022|
 |7.|[Welcome to the DaVinciCTF!](https://github.com/LaGelee/Writeups-for-all/blob/main/DaVinciCTF%202022/OSINT/Welcome%20to%20the%20DaVinciCTF!.md)|DaVinciCTF 2022|
+|8.|[Cry me a river](https://github.com/LaGelee/Writeups-for-all/tree/main/ECW%202022/Network/cry%20me%20a%20river.md)|ECW 2022|
 
 Writeups made wit :heart: by @LaGelee
